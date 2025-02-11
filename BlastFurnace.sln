@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlastFurnace", "BlastFurnace\BlastFurnace.csproj", "{0A21A26A-2E43-431B-86B5-91FEFE024BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "ZZCakeBuild\CakeBuild.csproj", "{2DA30E6D-5951-4413-A893-5618E49315DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A21A26A-2E43-431B-86B5-91FEFE024BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A21A26A-2E43-431B-86B5-91FEFE024BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A21A26A-2E43-431B-86B5-91FEFE024BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A21A26A-2E43-431B-86B5-91FEFE024BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA30E6D-5951-4413-A893-5618E49315DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA30E6D-5951-4413-A893-5618E49315DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA30E6D-5951-4413-A893-5618E49315DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA30E6D-5951-4413-A893-5618E49315DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
