@@ -1,0 +1,107 @@
+{
+	"code": "blastfurnace",
+	"class": "BlockBlastFurnace",
+	"entityClass": "BEBlastFurnace",
+	"shape": {
+		"base": "forge"
+	},
+	"behaviors": [
+		{ "name": "Lockable" },
+		{ "name": "HorizontalOrientable" },
+		{ "name": "HeatSource" }
+	],
+
+
+	"variantgroups": [
+		{
+			"code": "side",
+			"loadFromProperties": "abstract/horizontalorientation"
+		}
+	],
+	"shapeByType": {
+		"*-north": {
+			"base": "forge",
+			"rotateY": 0
+		},
+		"*-east": {
+			"base": "forge",
+			"rotateY": 270
+		},
+		"*-south": {
+			"base": "forge",
+			"rotateY": 180
+		},
+		"*-west": {
+			"base": "forge",
+			"rotateY": 90
+		}
+	},
+
+	"shapeInventory": {
+		"base": "forge",
+		"rotateY": 270
+	},
+
+
+
+	"entityBehaviors": [
+		{ "name": "TemperatureSensitive" }
+	],
+	"attributes": {
+		"reinforcable": true,
+		"mapColorCode": "settlement"
+	},
+	"blockmaterial": "Metal",
+	"creativeinventory": {
+		"general": [ "blastfurnace-north" ]
+	},
+	"replaceable": 500,
+	"lightAbsorption": 0,
+	"resistance": 20,
+	"sounds": {
+		"byTool": {
+			"Pickaxe": {
+				"hit": "blastfurnacehit",
+				"break": "blastfurnacebreak"
+			}
+		}
+	},
+	"sidesolid": { "all": false },
+	"sideopaque": { "all": false },
+	"textures": {
+		"coal": { "base": "block/bituminous" },
+		"ember": { "base": "block/ember" }
+	},
+	"collisionbox": {
+		"x1": 0.0625,
+		"y1": 0,
+		"z1": 0.0625,
+		"x2": 0.9375,
+		"y2": 1.438,
+		"z2": 0.9375
+	},
+	"selectionbox": {
+		"x1": 0.0625,
+		"y1": 0,
+		"z1": 0.0625,
+		"x2": 0.9375,
+		"y2": 1.438,
+		"z2": 0.9375
+	},
+	"heldTpIdleAnimation": "holdbothhandslarge",
+	"heldRightReadyAnimation": "heldblockready",
+	"heldTpUseAnimation": "twohandplaceblock",
+	"tpHandTransform": {
+		"translation": {
+			"x": -1.23,
+			"y": -0.91,
+			"z": -0.8
+		},
+		"rotation": {
+			"x": -2,
+			"y": 25,
+			"z": -78
+		},
+		"scale": 0.4
+	}
+}

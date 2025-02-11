@@ -1,0 +1,15 @@
+{
+	"ingredientPattern": "NPN,P_P,PFP",
+	"width": 3,
+	"height": 3,
+	"ingredients": {
+		"F": { "type": "block", "code": "game:forge" },
+		"P": { "type": "item", "code": "game:metalplate-iron", "quantity": 1},
+		"N": { "type": "item", "code": "game:metalnailsandstrips-*" , "quantity": 2 }
+	},
+	"output": {
+		"type": "block",
+		"code": "blastfurnace:blastfurnace-north"
+	}
+}
+

@@ -1,0 +1,8 @@
+{
+	"block-blastfurnace-north": "Blast furnace",
+	"blockdesc-blastfurnace-north": "<font color=\"#99c9f9\"><i>Built from thick iron plates and insulating material, the blast furnace burns high-temperature fuel to heat even the most resilient metals to a forgeable temperature.</i></font><br></br><br><font color=\"#00ffea\"><i>The blast furnace requires a fuel with a minimum burn temperature of 1340 °C, such as coke.</br></i></font>",
+	"blockdesc-blastfurnace-south": "<font color=\"#99c9f9\"><i>Built from thick iron plates and insulating material, the blast furnace burns high-temperature fuel to heat even the most resilient metals to a forgeable temperature.</i></font><br></br><br><font color=\"#00ffea\"><i>The blast furnace requires a fuel with a minimum burn temperature of 1340 °C, such as coke.</br></i></font>",
+	"blockdesc-blastfurnace-east": "<font color=\"#99c9f9\"><i>Built from thick iron plates and insulating material, the blast furnace burns high-temperature fuel to heat even the most resilient metals to a forgeable temperature.</i></font><br></br><br><font color=\"#00ffea\"><i>The blast furnace requires a fuel with a minimum burn temperature of 1340 °C, such as coke.</br></i></font>",
+	"blockdesc-blastfurnace-west": "<font color=\"#99c9f9\"><i>Built from thick iron plates and insulating material, the blast furnace burns high-temperature fuel to heat even the most resilient metals to a forgeable temperature.</i></font><br></br><br><font color=\"#00ffea\"><i>The blast furnace requires a fuel with a minimum burn temperature of 1340 °C, such as coke.</br></i></font>"
+
+}

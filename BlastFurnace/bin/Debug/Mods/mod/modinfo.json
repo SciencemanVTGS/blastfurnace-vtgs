@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "blastfurnace",
+    "name": "BlastFurnace",
+    "authors": [
+        "Scienceman"
+    ],
+    "description": "Adds a blast furnace for high temperature applications.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}

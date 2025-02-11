@@ -1,0 +1,13 @@
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\assets\blastfurnace\blocktypes\blastfurnace.json
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\assets\blastfurnace\lang\en.json
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\assets\blastfurnace\recipes\grid\blastfurnace.json
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\assets\blastfurnace\shapes\forge.json
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\assets\blastfurnace\sounds\blastfurnacebreak.ogg
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\assets\blastfurnace\sounds\blastfurnacehit.ogg
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\assets\blastfurnace\textures\block\bituminous.png
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\assets\blastfurnace\textures\block\ember.png
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\assets\blastfurnace\textures\ironpanel.png
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\modinfo.json
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\BlastFurnace.dll
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\BlastFurnace.deps.json
+C:\Users\ewris\source\repos\blastfurnace\BlastFurnace\bin\Release\Mods\mod\publish\BlastFurnace.pdb
